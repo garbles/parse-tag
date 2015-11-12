@@ -1,0 +1,8 @@
+{
+  "name": "parse-tag",
+  "version": "1.0.0",
+  "description": "parse-tag module extracted from the virtual-dom library",
+  "main": "index.js",
+  "author": "Matt Esch",
+  "license": "MIT"
+}
