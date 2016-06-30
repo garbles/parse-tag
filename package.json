@@ -4,5 +4,9 @@
   "description": "parse-tag module extracted from the virtual-dom library",
   "main": "index.js",
   "author": "Matt Esch",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garbles/parse-tag.git"
+  }
 }
